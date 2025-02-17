@@ -1,0 +1,27 @@
+Crear una aplicación Android y windos
+
+La app debe ofrecer servicios informáticos a personas con dificultades tecnológicas.
+Puede ser una app simple que explique servicios como: configuración de dispositivos, instalación de programas, recuperación de contraseñas, etc.
+Luego tendrás que presentarla en clase.
+➜ Puedes usar herramientas como MIT App Inventor (para algo más sencillo) o Android Studio (para algo más avanzado).
+
+
+conbo desarrollo de aplicaciones Android con
+PYTHON	 //LENGUAJE DE PROGRAMACION O GO O C#
+FLUTTER  //PROGRAMACION EN ANDROID // framework para windos linus etc..
+FLET 	 //FRAMEWORK
+
+1 instalar flet con phyton: pip install flet
+y pip install pyinstaller
+
+2 flet create my_app //para crear el prollecto
+
+3 para sacar qr si no re conoce flet:
+$env:Path += ";C:\Users\Andrew\AppData\Roaming\Python\Python313\Scripts"
+si lo reconoce: flet run --android .\cunter.py
+
+4 para sacar un exe o apk
+flet pack programa.py // lo hará en exe
+y se crear en la carpeta dist el ejecutable para windos o mac
+
+para convertir a apk 
